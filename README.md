@@ -1,8 +1,6 @@
-# TRINIT_Dream-Epic_ML03
+
 
 <b> Track: </b> Machine Learning<br>
-<b> Problem Statement ID:</b> ML03
-Crop prediction project as a part of the Tri - NIT hackathon.
 
 ## Dependencies required:
 
